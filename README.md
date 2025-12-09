@@ -22,7 +22,7 @@ Myanmar food price analysis and interactive dashboard built to showcase applied 
 - Shock and volatility detection: coefficient of variation rankings, >=20% monthly jump flags by state/commodity, and z-score outlier detection for price spikes.
 - Modeling: ARIMA-based 12-month rice price forecast with confidence intervals, k-means clustering of market trajectories, rice affordability index (rice price vs. wage), and composite regional risk scores combining volatility, inflation, and shock frequency.
 
-## Key Insights (headline results)
+## Key Insights 
 - Long-run inflation: average prices rise steadily; largest month-on-month jumps occur in 2014-01 (+73.1%), 2011-06 (+68.9%), and 2011-07 (+53.1%).
 - Regional inequality: Sagaing posts the highest average prices (~3,132 MMK), while Magway is lowest; inequality widens after 2021 with northern conflict-affected regions showing both higher means and wider spreads.
 - Commodity dynamics: Pulses (+750%), tomatoes (+561%), and onions (+453%) are the most inflationary since their first observed year. Onions are also the most volatile commodity (CV ~1.30), while meat is the most stable (CV ~0.23).
